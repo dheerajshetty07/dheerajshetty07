@@ -35,6 +35,10 @@ I work at the intersection of analytics, AI and automation
 - **Databases & Systems** — PostgreSQL, Microsoft SQL Server, SQLite, Workday ERP, sFTP workflows
 - **Cloud & Deployment** — AWS, Azure, Vercel, GitHub Pages, Neon, Supabase and Firebase
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,sql,r,alteryx,tableau,react,nextjs,ts,nodejs,postgres,aws,github&theme=dark" />
+</p>
+
 ---
 
 ### 🌐 Beyond the Code
