@@ -36,7 +36,7 @@ I work at the intersection of analytics, AI and automation
 - **Cloud & Deployment** — AWS, Azure, Vercel, GitHub Pages, Neon, Supabase and Firebase
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=py,sql,r,alteryx,tableau,react,nextjs,ts,nodejs,postgres,aws,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,sql,r,react,nextjs,ts,nodejs,postgres,aws,github&theme=dark" />
 </p>
 
 ---
