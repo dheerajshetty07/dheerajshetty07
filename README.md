@@ -29,14 +29,14 @@ I view data not just as a series of static reports, but as a foundation for buil
 
 I work at the intersection of analytics, AI and automation
 
-- **Programming** — Python, SQL, TypeScript, R
+- **Programming** — Python, SQL, TypeScript, Next.js, R
 - **Data & BI** — Tableau, Power BI, DAX, Alteryx Designer, Excel
 - **Web & App Development** — React, Next.js, Node.js, Dash, Plotly, Tailwind CSS
 - **Databases & Systems** — PostgreSQL, Microsoft SQL Server, SQLite, Workday ERP, sFTP workflows
 - **Cloud & Deployment** — AWS, Azure, Vercel, GitHub Pages, Neon, Supabase and Firebase
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,r,anaconda,react,html,css,nextjs,nodejs,mysql,postgres,git,aws,azure,supabase,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,r,anaconda,react,html,css,nextjs,ts,mysql,postgres,git,aws,azure,supabase,vscode&theme=dark" />
 </p>
 
 ---
