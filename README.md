@@ -42,6 +42,6 @@ I work at the intersection of analytics, AI and automation
 ---
 
 ### 🌐 Beyond the Code
-I'm passionate about **Decision Intelligence**—the practice of modeling how humans and machines make choices. When I'm not building, I'm likely exploring the next frontier tech.
+I'm passionate about **Decision Intelligence** the practice of modeling how humans and machines make choices. When I'm not building, I'm likely exploring the next frontier tech.
 
 [**LinkedIn**](https://www.linkedin.com/in/dheerajshetty-analytics/) &nbsp; • &nbsp; [**Portfolio**](https://dheerajshetty07.github.io/) &nbsp; • &nbsp; [**Email**](mailto:dheerajshetty07@gmail.com)
