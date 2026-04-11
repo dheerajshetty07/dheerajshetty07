@@ -5,7 +5,7 @@ I build systems that sit at the intersection of high-fidelity analytics and inte
 
 ---
 
-### 🏛️ The Architecture
+### About Me
 I view data not just as a series of static reports, but as a foundation for building automated, self-optimizing business systems.
 
 - **Systems Thinking**: Supported Workday ERP implementations and data conversion at American University's Office of IT.
