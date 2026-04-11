@@ -20,8 +20,8 @@ I view data not just as a series of static reports, but as a foundation for buil
 | :--- | :--- | :--- |
 | **[Ad-Optimized ROAS](https://github.com/dheerajshetty07/Ad-Spend-Optimization-ROAS-Forecasting)** | Predictive budget pacing and bid optimization for Amazon Sponsored products. | Python, Scikit-Learn, Pandas |
 | **[AI Sentiment Analytics](https://github.com/dheerajshetty07/AI-Employment-Sentiment-Text-Analytics)** | Large-scale text analysis of public discourse on AI-driven job displacement. | LDA Modeling, BERT, VADER, Media APIs |
-| **[Digital Transformation](https://github.com/dheerajshetty07/Dell-Perpetual-to-Subscription-P2S-Project)** | Optimizing Quote-to-Cash processes for Dell Technologies' shift to subscription models. | Business Process Design, ERP Ops |
 | **[AI Frontier Index](https://github.com/dheerajshetty07/frontier-ai-index)** | An intelligence dashboard for tracking frontier AI companies, news, valuations, and pricing in one place for faster research and decision-making. | Next.js, Supabase, n8n |
+| **[Digital Transformation](https://github.com/dheerajshetty07/Dell-Perpetual-to-Subscription-P2S-Project)** | Optimizing Quote-to-Cash processes for Dell Technologies' shift to subscription models. | Business Process Design, ERP Ops |
 
 ---
 
