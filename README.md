@@ -1,7 +1,7 @@
 # ⚡️ Dheeraj Shetty
 ### Bridging Business Intelligence with Artificial Intelligence
 
-I build systems that sit at the intersection of high-fidelity analytics and intelligent automation. Currently completing my **M.S. in Business Analytics & AI** at American University, focusing on transforming complex data architectures into actionable product ecosystems.
+I build systems that sit at the intersection of high-fidelity analytics and intelligent automation. Graduated with **M.S. in Business Analytics & AI** from American University, focusing on transforming complex data architectures into actionable business ecosystems.
 
 ---
 
